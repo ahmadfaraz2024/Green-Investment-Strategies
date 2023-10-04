@@ -1,17 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  4 14:12:19 2023
-
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 26 23:57:26 2023
-
-@author: faraz
-"""
 
 import pandas as pd
 import requests
